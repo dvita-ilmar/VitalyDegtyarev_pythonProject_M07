@@ -3,8 +3,6 @@
 Домашнее задание №7.3
 Домашнее задание по теме "Оператор "with".
 """
-from logging import setLogRecordFactory
-
 
 class WordsFinder:
     def __init__(self, *args):
